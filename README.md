@@ -1,27 +1,27 @@
-# Biomecatrónica
+# BiomecatrÃ³nica
 
-Recursos de la asignatura Biomecatrónica para el programa de **Ingeniería Biomédica** en la **Universidad EIA**
+Recursos de la asignatura BiomecatrÃ³nica para el programa de **IngenierÃ­a BiomÃ©dica** en la **Universidad EIA**
 
-## Contenido temático
+## Contenido temÃ¡tico
  
-| Tema  | Contenidos temáticos  |
+| Tema  | Contenidos temÃ¡ticos  |
 | :--- | :--- |
-| 1 | Introducción a los sistemas de control  |
+| 1 | IntroducciÃ³n a los sistemas de control  |
 | 2 | Variables de estado y modelo SSR |
-| 3 | Función de transferencia |
+| 3 | FunciÃ³n de transferencia |
 | 4 | Diagramas de bloques - Regla de Mason |
 | 5 | Respuesta de primer y segundo orden  |
 | 6 | Criterios de estabilidad |
-| 7 | Identificación de sistemas |
-| 8 |Principios de realimentación - Estado estacionario|
+| 7 | IdentificaciÃ³n de sistemas |
+| 8 |Principios de realimentaciÃ³n - Estado estacionario|
 | 9 |Acciones proporcional, integral y derivativa|
-| 10 |Sintonía de controlador PID |	
-| 11 |Lugar geométrico de raices |
-| 12 |Diseño de compensadores en atraso LGR |
-| 13 |Diseño compensadores en adelanto LGR |
+| 10 |SintonÃ­a de controlador PID |	
+| 11 |Lugar geomÃ©trico de raices |
+| 12 |DiseÃ±o de compensadores en atraso LGR |
+| 13 |DiseÃ±o compensadores en adelanto LGR |
 | 14 |Respuesta en frecuencia |
-| 15 |Márgenes de estabilidad |
-| 16 |Diseño de compensadores usando respuesta en frecuencia |
-| 17 |Formas canónicas - Controlabilidad y observabilidad del par |
-| 18 |Diseño por realimentación de estados |
-| 19 |Diseño por realimentación de salida (1)|
+| 15 |MÃ¡rgenes de estabilidad |
+| 16 |DiseÃ±o de compensadores usando respuesta en frecuencia |
+| 17 |Formas canÃ³nicas - Controlabilidad y observabilidad del par |
+| 18 |DiseÃ±o por realimentaciÃ³n de estados |
+| 19 |DiseÃ±o por realimentaciÃ³n de salida |
