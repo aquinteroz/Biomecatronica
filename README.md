@@ -19,7 +19,7 @@ Recursos de la asignatura Biomecatrónica para el programa de **Ingeniería Biom
 | 11 |Diseño por lugar geométrico de raices |
 | 12 |Diseño por respuesta en frecuencia |
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Esta obra está bajo una
 [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional][cc-by-nc-sa].
