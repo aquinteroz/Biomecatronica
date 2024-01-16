@@ -7,7 +7,7 @@ Recursos de la asignatura Biomecatrónica para el programa de **Ingeniería Biom
 Los números entre paréntesis se refieren a las secciones del libro de Nise.
 
 | Sesión | Tema a abordar                                        |
-| :--- | :--- |
+| :---: | :--- |
 | 1      | Introducción a los sistemas de control (1.1, 1.3, 1.4 1.5) |
 | 2      | Modelado en el dominio de la frecuencia (2.2, 2.3)     |
 | 3      | Modelado en el dominio de la frecuencia (2.4, 2.5, 2.6) |
