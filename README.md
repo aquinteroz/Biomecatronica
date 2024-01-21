@@ -4,7 +4,7 @@ Recursos de la asignatura Biomecatrónica para el programa de **Ingeniería Biom
 
 ## Contenido temático
 
-Los números entre paréntesis se refieren a las secciones del libro de Nise.
+Los números entre paréntesis se refieren a las secciones del libro de [Nise](https://eiaedu-my.sharepoint.com/:b:/g/personal/andres_quintero27_eia_edu_co/EfiFex3oE8ZJmrTydXeCp-MBrkoW3FG3es9GRs1JMAEVEg?e=CCQ8SG).
 
 | Sesión | Tema a abordar                                        |
 | :---: | :--- |
