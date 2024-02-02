@@ -2,6 +2,8 @@
 
 Recursos de la asignatura Biomecatrónica para el programa de **Ingeniería Biomédica** en la **Universidad EIA**
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=aquinteroz/Biomecatronica)
+
 ## Contenido temático
 
 Los números entre paréntesis se refieren a las secciones del libro de [Nise](https://eiaedu-my.sharepoint.com/:b:/g/personal/andres_quintero27_eia_edu_co/EfiFex3oE8ZJmrTydXeCp-MBrkoW3FG3es9GRs1JMAEVEg?e=CCQ8SG).
