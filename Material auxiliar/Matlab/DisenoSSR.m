@@ -112,6 +112,6 @@ plot(t,x2,'color',[2, 101, 220]/255)
 plot(t,x2_est,'color',[2, 101, 220]/255,'LineStyle',':')
 plot(t,x3,'color',[0, 143, 93]/255)
 plot(t,x3_est,'color',[0, 143, 93]/255,'LineStyle',':')
-legend('$x_1$','$\hat{x}_1$','$x_2$','$\hat{x}_1$','$x_3$','$\hat{x}_1$','interpreter','latex')
+legend('$x_1$','$\hat{x}_1$','$x_2$','$\hat{x}_1$','$x_3$','$\hat{x}_3$','interpreter','latex')
 xlabel('Time (sec)')
 hold off
