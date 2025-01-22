@@ -56,7 +56,7 @@ end
 step(sys)
 %%
 
-OS = 10.5;
+OS = 10;
 ts = 2;
 zeta = round(-log(OS/100)/sqrt(pi^2+log(OS/100)^2),2)
 wn = round(4/zeta/ts,1)
@@ -72,9 +72,11 @@ Kr = -1/(C*((A-B*K)\B))
 step(Kr*syscl)
 %% observador
 
-po = [-15 -20 -25];
+po = [-100 -101 -102];
 L = acker(A.',C.',po)'
 
+%% cálculo a mano
+L = [60.293;1.9716;-7.0978]
 %% dinámica combinada
 
 At = [ A-B*K             B*K
@@ -91,8 +93,8 @@ step(sysFull)
 
 
 
-t = 0:1E-6:2;
-x0 = [0.1 0.1 0.1];
+t = 0:1E-2:2;
+x0 = [1 1 1];
 [y,t,x] = lsim(sysFull,ones(size(t)),t,[x0 x0]);
 
 n = 3;
