@@ -10,7 +10,7 @@ Los números de las lecturas se refieren a las secciones del libro de [Ogata](ht
 
 | Sesión | Tema a abordar | Lecturas |
 | :---: | :--- | :--- |
-| 1  |Introducción a los sistemas de control| 1.1 -- 1.4|   
+| 1  |Introducción a los sistemas de control| 1.1 a 1.4|   
 | 2  |Números complejos |Notas de clase   |   
 | 3  |Solución de ODEs  |Notas de clase   |   
 | 4  |Transformada de Laplace   |Notas de clase   |   
